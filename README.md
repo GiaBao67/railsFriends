@@ -1,4 +1,4 @@
-# Friends List App
+Friends List App
 
 This is my first ruby app
 
